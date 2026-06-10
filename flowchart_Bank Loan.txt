@@ -1,0 +1,10 @@
+    What is the first step in the loan application process?
+    What happens if the applicant is not eligible after review?
+    Is income sufficiency checked before or after credit history evaluation?
+	How long does it take to disburse the funds after approval? 
+    What happens if the applicant does not have adequate collateral?
+    Which step comes immediately before 'Loan Approved'?
+    If a co-signer is required, what step follows?
+    What is the final step in the process?
+    Is there a step where the applicant must sign an agreement?
+    What are the specific income thresholds used to determine sufficiency?  

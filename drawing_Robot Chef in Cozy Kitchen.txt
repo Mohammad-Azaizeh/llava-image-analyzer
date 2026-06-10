@@ -1,0 +1,12 @@
+What is the robot doing in the kitchen?
+How many eggs are visible in the frying pan?
+What utensil is the robot holding?
+What is the robot cooking in the pot?
+What time did the robot start cooking?
+Is the robot smiling or frowning?
+What seasonings can be seen on the counter?
+How many mugs are visible on the shelf?
+Is the window open or closed?
+What kind of food is in the frying pan?
+What ingredients did the robot use to make the dish?
+
