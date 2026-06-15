@@ -1,0 +1,39 @@
+picture: "text_Helens Summer Afternoon Story.png"
+question: "What book was Helen reading?"
+answer: "Charlotte Bronte"
+
+picture: "text_Helens Summer Afternoon Story.png"
+question: "Who wrote the book Helen was reading?"
+answer: "Charlotte Bronte"
+
+picture: "text_Helens Summer Afternoon Story.png"
+question: "What was the weather like outside?"
+answer: "Sunny"
+
+picture: "text_Helens Summer Afternoon Story.png"
+question: "Why was Helen feeling bored?"
+answer: "Helen was feeling bored because she was sitting at home with nothing to do."
+
+picture: "text_Helens Summer Afternoon Story.png"
+question: "Who came to visit Helen?"
+answer: "One of the children she had saved"
+
+picture: "text_Helens Summer Afternoon Story.png"
+question: "How did Helen react when the doorbell rang?"
+answer: "Helen jumped up and ran to the doorbell ring."
+
+picture: "text_Helens Summer Afternoon Story.png"
+question: "What did Alice say when Helen opened the door?"
+answer: "Helen, what are you doing?"
+
+picture: "text_Helens Summer Afternoon Story.png"
+question: "What relation is Alice to Helen?"
+answer: "Alice is Helen's friend."
+
+picture: "text_Helens Summer Afternoon Story.png"
+question: "What time did Alice arrive?"
+answer: "Not visible in the image."
+
+picture: "text_Helens Summer Afternoon Story.png"
+question: "What did Helen and Alice do after meeting?"
+answer: "Helen and Alice decided to stay together for the night."
