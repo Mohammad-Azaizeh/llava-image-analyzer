@@ -4,7 +4,7 @@ answer: "The robot is cooking food on a stove in the kitchen."
 
 picture: "drawing_Robot Chef in Cozy Kitchen.png"
 question: "How many eggs are visible in the frying pan?"
-answer: "0"
+answer: "2"
 
 picture: "drawing_Robot Chef in Cozy Kitchen.png"
 question: "What utensil is the robot holding?"
@@ -28,7 +28,7 @@ answer: "Salt and pepper shakers are visible on the counter."
 
 picture: "drawing_Robot Chef in Cozy Kitchen.png"
 question: "How many mugs are visible on the shelf?"
-answer: "0"
+answer: "3"
 
 picture: "drawing_Robot Chef in Cozy Kitchen.png"
 question: "Is the window open or closed?"
