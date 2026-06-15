@@ -334,3 +334,87 @@ picture: "drawing_Robot Chef in Cozy Kitchen.png"
 question: "What ingredients did the robot use to make the dish?"
 answer: "The image does not provide information on the specific ingredients used by the robot to make the dish."
 
+picture: "drawing_Robot Chef in Cozy Kitchen.png"
+question: "What is the robot doing in the kitchen?"
+answer: "Cooking soup in a pot."
+
+picture: "drawing_Robot Chef in Cozy Kitchen.png"
+question: "How many eggs are visible in the frying pan?"
+answer: "2"
+
+picture: "drawing_Robot Chef in Cozy Kitchen.png"
+question: "What utensil is the robot holding?"
+answer: "Wooden spoon"
+
+picture: "drawing_Robot Chef in Cozy Kitchen.png"
+question: "What is the robot cooking in the pot?"
+answer: "Eggs"
+
+picture: "drawing_Robot Chef in Cozy Kitchen.png"
+question: "What time did the robot start cooking?"
+answer: "I cannot answer this question as the image does not provide any information about when the robot started cooking."
+
+picture: "drawing_Robot Chef in Cozy Kitchen.png"
+question: "Is the robot smiling or frowning?"
+answer: "Smiling"
+
+picture: "drawing_Robot Chef in Cozy Kitchen.png"
+question: "What seasonings can be seen on the counter?"
+answer: "Salt and pepper shakers."
+
+picture: "drawing_Robot Chef in Cozy Kitchen.png"
+question: "How many mugs are visible on the shelf?"
+answer: "There is a single mug visible on the kitchen shelf in the image."
+
+picture: "drawing_Robot Chef in Cozy Kitchen.png"
+question: "Is the window open or closed?"
+answer: "Closed"
+
+picture: "drawing_Robot Chef in Cozy Kitchen.png"
+question: "What kind of food is in the frying pan?"
+answer: "Eggs"
+
+picture: "drawing_Robot Chef in Cozy Kitchen.png"
+question: "What ingredients did the robot use to make the dish?"
+answer: "The image does not provide sufficient information to determine the specific ingredients used in the dish being made by the robot."
+
+picture: "flowchart_Bank Loan.png"
+question: "What is the first step in the loan application process?"
+answer: "The first step in the loan application process, as shown in the logic flowchart diagram, is to "Start.""
+
+picture: "flowchart_Bank Loan.png"
+question: "What happens if the applicant is not eligible after review?"
+answer: "The flowchart leads to a decision point that says "Application Rejected.""
+
+picture: "flowchart_Bank Loan.png"
+question: "Is income sufficiency checked before or after credit history evaluation?"
+answer: "Before"
+
+picture: "flowchart_Bank Loan.png"
+question: "How long does it take to disburse the funds after approval?"
+answer: "It is not possible to determine the length of time it takes to disburse funds after approval from this flowchart diagram, as there are no specific timeframes or durations mentioned in the visible blocks."
+
+picture: "flowchart_Bank Loan.png"
+question: "What happens if the applicant does not have adequate collateral?"
+answer: "The flowchart indicates that if the applicant does not have adequate collateral, it results in a 'Rejected' decision."
+
+picture: "flowchart_Bank Loan.png"
+question: "Which step comes immediately before 'Loan Approved'?"
+answer: "Sign"
+
+picture: "flowchart_Bank Loan.png"
+question: "If a co-signer is required, what step follows?"
+answer: "The flowchart does not provide a specific step after the requirement of a co-signer. It only shows a decision point labeled "Co-Signer?" but does not lead to any subsequent steps."
+
+picture: "flowchart_Bank Loan.png"
+question: "What is the final step in the process?"
+answer: "The final step in the process, as indicated by the flowchart diagram, is "Funds approved.""
+
+picture: "flowchart_Bank Loan.png"
+question: "Is there a step where the applicant must sign an agreement?"
+answer: "Yes"
+
+picture: "flowchart_Bank Loan.png"
+question: "What are the specific income thresholds used to determine sufficiency?"
+answer: "The image does not provide explicit information about specific income thresholds used to determine sufficiency."
+
