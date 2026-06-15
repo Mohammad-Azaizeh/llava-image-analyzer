@@ -418,3 +418,47 @@ picture: "flowchart_Bank Loan.png"
 question: "What are the specific income thresholds used to determine sufficiency?"
 answer: "The image does not provide explicit information about specific income thresholds used to determine sufficiency."
 
+picture: "drawing_Robot Chef in Cozy Kitchen.png"
+question: "What is the robot doing in the kitchen?"
+answer: "The robot is cooking something on a stove."
+
+picture: "drawing_Robot Chef in Cozy Kitchen.png"
+question: "How many eggs are visible in the frying pan?"
+answer: "0"
+
+picture: "drawing_Robot Chef in Cozy Kitchen.png"
+question: "What utensil is the robot holding?"
+answer: "Spoon"
+
+picture: "drawing_Robot Chef in Cozy Kitchen.png"
+question: "What is the robot cooking in the pot?"
+answer: "Eggs"
+
+picture: "drawing_Robot Chef in Cozy Kitchen.png"
+question: "What time did the robot start cooking?"
+answer: "The image does not provide information about when the robot started cooking."
+
+picture: "drawing_Robot Chef in Cozy Kitchen.png"
+question: "Is the robot smiling or frowning?"
+answer: "Frowning"
+
+picture: "drawing_Robot Chef in Cozy Kitchen.png"
+question: "What seasonings can be seen on the counter?"
+answer: "Salt and pepper shakers are on the kitchen counter."
+
+picture: "drawing_Robot Chef in Cozy Kitchen.png"
+question: "How many mugs are visible on the shelf?"
+answer: "1"
+
+picture: "drawing_Robot Chef in Cozy Kitchen.png"
+question: "Is the window open or closed?"
+answer: "Open"
+
+picture: "drawing_Robot Chef in Cozy Kitchen.png"
+question: "What kind of food is in the frying pan?"
+answer: "Eggs"
+
+picture: "drawing_Robot Chef in Cozy Kitchen.png"
+question: "What ingredients did the robot use to make the dish?"
+answer: "The image does not provide specific information about the ingredients used by the robot to make the dish."
+
